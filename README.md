@@ -3,7 +3,7 @@
 # Hi! I'm Faraz Ahmed 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-ahmed-5670931a7/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourname)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@farazx789)
 
 I am a **Cybersecurity & Information Assurance graduate student at the University at Buffalo** with a strong interest in **Blue Team operations, SOC analysis, and Digital Forensics**.
 
