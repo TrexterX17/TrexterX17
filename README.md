@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-ahmed-5670931a7/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@farazx789)
 
-🎓 **Cybersecurity & Information Assurance Graduate Student @ University at Buffalo**  
-🔐 Aspiring **SOC Analyst | Blue Team | DFIR Enthusiast**
+🎓 **Cybersecurity & Network Security Graduate Student @ University at Buffalo**  
+🔐 Aspiring **SOC Analyst | Blue Team | Network Security Enthusiast**
 
 I focus on **defensive security, incident response, SIEM investigations, and digital forensics**, with hands-on experience across enterprise-style lab environments.
 
