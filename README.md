@@ -72,5 +72,5 @@ I aim to strengthen organizational security posture by working alongside **Blue 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 💼 LinkedIn: https://www.linkedin.com/in/faraz-ahmed-5670931a7/
 - 📧 Email: your@email.com
