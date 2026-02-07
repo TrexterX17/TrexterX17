@@ -35,8 +35,8 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 |-----|-------------|------|
 | 🛡️ **System Security** | Hands-on labs covering OS-level security, access controls and system hardening techniques | [View Labs](https://github.com/TrexterX17/Labs-For-System-Security) |
 | 🔒 **Computer Security** | Practical exercises in vulnerability analysis, exploitation defense and secure configurations | [View Labs](https://github.com/TrexterX17/Labs-For-Computer-Security) |
-| 📋 **Information Security & Assurance** | Labs focused on security policies, risk assessment, compliance frameworks and assurance methodologies | [View Labs](https://github.com/TrexterX17/Labs-for-Information-Security-And-Assurance) |
-| 🔍 **Digital Forensics** | Forensic investigation labs including evidence acquisition, log analysis and incident reconstruction | [View Labs](https://github.com/TrexterX17/Labs-for-Digital-Forensics) |
+| 📋 **Information Security & Assurance** | Labs focused on security policies, risk assessment, compliance frameworks and assurance methodologies | [View Labs](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance) |
+| 🔍 **Digital Forensics** | Forensic investigation labs including evidence acquisition, log analysis and incident reconstruction | [View Labs](https://github.com/TrexterX17/Labs-For-Digital-Forensics) |
 
 ---
 
