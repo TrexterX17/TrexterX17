@@ -14,20 +14,51 @@ I focus on **defensive security, incident response, SIEM investigations, and dig
 
 Driven cybersecurity professional aiming to contribute to **Blue Team operations and SOC environments** by detecting threats, responding to incidents, and strengthening organizational security posture using data-driven and forensic techniques.
 
+# 🧠 Core Skills & Hands-On Projects
+
+<div align="center">
+
+| 🎯 **Skill Area** | 🚀 **Hands-On Project** |
+|:------------------|:------------------------|
+| 🔐 **Network Security & Segmentation** | [ICS-OT GCP Security Simulation](https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation) |
+| 📊 **SIEM & Log Analysis** | [SIEM Splunk Threat Investigation](https://github.com/TrexterX17/SIEM_Splunk-Threat-Investigation) |
+| 🚨 **Incident Response** | [InfoSec Tabletop Incident Response](https://github.com/TrexterX17/InfoSec-Tabletop-Incident-Response) |
+| 🔍 **Digital Forensics** | [Digital Forensics with Incident Response Simulation](https://github.com/TrexterX17/Digital-Forensics-with-Incidence-Response-Simulation) |
+| 🛡️ **Website Security Hardening** | [Web Vulnerability Mitigation](https://github.com/TrexterX17/web-vulnerability-mitigation-Faraz-Ahmed) |
+| 🦠 **Malware Defense** | [Malware Analysis Platform](https://github.com/TrexterX17/Malware-Analysis-Platform) |
+
+</div>
+
 ---
 
-## 🧠 Core Skills
+<details>
+<summary>📌 Click to see project highlights</summary>
 
-| Skill Area | Hands-On Project |
-|-----------|------------------|
-| Network Security & Segmentation | https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation |
-| SIEM & Log Analysis | https://github.com/TrexterX17/SIEM_Splunk-Threat-Investigation |
-| Incident Response | https://github.com/TrexterX17/InfoSec-Tabletop-Incident-Response |
-| Digital Forensics | https://github.com/TrexterX17/Digital-Forensics-with-Incidence-Response-Simulation |
-| Website Security Hardening | https://github.com/TrexterX17/web-vulnerability-mitigation-Faraz-Ahmed |
-| Malware Defense | https://github.com/TrexterX17/Malware-Analysis-Platform |
+### 🔐 Network Security & Segmentation
+- Simulated ICS/OT environments on Google Cloud Platform
+- Implemented network segmentation and security controls
 
----
+### 📊 SIEM & Log Analysis
+- Threat detection and investigation using Splunk
+- Log correlation and security event analysis
+
+### 🚨 Incident Response
+- Tabletop exercises for security incident scenarios
+- Developed response procedures and playbooks
+
+### 🔍 Digital Forensics
+- Evidence collection and analysis techniques
+- Incident response integration and simulation
+
+### 🛡️ Website Security Hardening
+- Vulnerability assessment and remediation
+- Security best practices implementation
+
+### 🦠 Malware Defense
+- Malware analysis and reverse engineering
+- Threat intelligence platform development
+
+</details>
 
 ## 🧪 Hands-On Lab Experience
 
