@@ -20,7 +20,7 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 
 <div align="center">
 
-| 🎯 **Skill Area** | 🚀 **Hands-On Project** |
+|   **Skill Area** |  **Hands-On Project** |
 |:------------------|:------------------------|
 | 🔐 **Network Security & Segmentation** | [ICS-OT GCP Security Simulation](https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation) |
 | 📊 **SIEM & Log Analysis** | [SIEM Splunk Threat Investigation](https://github.com/TrexterX17/SIEM_Splunk-Threat-Investigation) |
@@ -30,11 +30,6 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 | 🦠 **Malware Defense** | [Malware Analysis Platform](https://github.com/TrexterX17/Malware-Analysis-Platform) |
 
 </div>
-
----
-
-<details>
-<summary>📌 Click to see project highlights</summary>
 
 ### 🔐 Network Security & Segmentation
 - Simulated ICS/OT environments on Google Cloud Platform
@@ -60,7 +55,9 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 - Malware analysis and reverse engineering
 - Threat intelligence platform development
 
-</details>
+
+
+---
 
 ## 🧪 Hands-On Lab Experience
 
