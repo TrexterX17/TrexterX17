@@ -22,10 +22,10 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 |-----------|------------------|
 | Network Security & Segmentation | https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation |
 | SIEM & Log Analysis | https://github.com/TrexterX17/SIEM_Splunk-Threat-Investigation |
-| Incident Response | Tim-Force Tabletop IR Exercise |
-| Digital Forensics | SSH Brute Force + Privilege Escalation Case |
-| Linux Server Hardening | Ubuntu & Rocky Linux Security |
-| Malware Defense | ClamAV Deployment & Validation |
+| Incident Response | https://github.com/TrexterX17/InfoSec-Tabletop-Incident-Response |
+| Digital Forensics | https://github.com/TrexterX17/Digital-Forensics-with-Incidence-Response-Simulation |
+| Website Security Hardening | https://github.com/TrexterX17/web-vulnerability-mitigation-Faraz-Ahmed |
+| Malware Defense | https://github.com/TrexterX17/Malware-Analysis-Platform |
 
 ---
 
