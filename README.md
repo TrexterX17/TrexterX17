@@ -20,7 +20,7 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 
 | Skill Area | Hands-On Project |
 |-----------|------------------|
-| Network Security & Segmentation | pfSense Secure Network Architecture |
+| Network Security & Segmentation | https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation |
 | SIEM & Log Analysis | Splunk SOC Investigation & Dashboards |
 | Incident Response | Tim-Force Tabletop IR Exercise |
 | Digital Forensics | SSH Brute Force + Privilege Escalation Case |
