@@ -14,7 +14,7 @@ I focus on **defensive security, incident response, SIEM investigations, and dig
 
 Driven cybersecurity professional aiming to contribute to **Blue Team operations and SOC environments** by detecting threats, responding to incidents, and strengthening organizational security posture using data-driven and forensic techniques.
 
-# 🧠 Core Skills & Hands-On Projects
+## 🧠 Core Skills & Hands-On Projects
 
 <div align="center">
 
