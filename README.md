@@ -22,16 +22,17 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 
 |   **Skill Area** |  **Hands-On Project** |
 |:------------------|:------------------------|
-| 🔐 **Network Security & Segmentation** | [ICS-OT GCP Security Simulation](https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation) |
+| 🌐 **Network Security & Segmentation** | [ICS-OT GCP Security Simulation](https://github.com/TrexterX17/ICS-OT-GCP-Security-Simulation) |
 | 📊 **SIEM & Log Analysis** | [SIEM Splunk Threat Investigation](https://github.com/TrexterX17/SIEM_Splunk-Threat-Investigation) |
 | 🚨 **Incident Response** | [InfoSec Tabletop Incident Response](https://github.com/TrexterX17/InfoSec-Tabletop-Incident-Response) |
 | 🔍 **Digital Forensics** | [Digital Forensics with Incident Response Simulation](https://github.com/TrexterX17/Digital-Forensics-with-Incidence-Response-Simulation) |
 | 🛡️ **Website Security Hardening** | [Web Vulnerability Mitigation](https://github.com/TrexterX17/web-vulnerability-mitigation-Faraz-Ahmed) |
 | 🦠 **Malware Defense** | [Malware Analysis Platform](https://github.com/TrexterX17/Malware-Analysis-Platform) |
+| 🔐 **Mobile Encyption Security** | [Mobile Cryptographic Encryption Security](https://github.com/TrexterX17/MobXcess-Secure-Server-Access-Faraz-Ahmed) |
 
 </div>
 
-### 🔐 Network Security & Segmentation
+### 🌐 Network Security & Segmentation
 - Simulated ICS/OT environments on Google Cloud Platform
 - Implemented network segmentation and security controls
 
@@ -55,7 +56,9 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 - Malware analysis and reverse engineering
 - Threat intelligence platform development
 
-
+### 🔐 Mobile Encryption Security
+- Mobile SSH alternative with REST API, RSA 4096-bit encryption, and QR-based key exchange
+- Lightweight security solution for portable, authenticated mobile server access
 
 ---
 
