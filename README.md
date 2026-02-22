@@ -1,11 +1,6 @@
 # Hi, I'm Faraz Ahmed 👋
 
-<a href="https://www.linkedin.com/in/faraz-ahmed-5670931a7/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-ahmed-5670931a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/faraz-ahmed-5670931a7/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@farazx789)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farazx789@gmail.com)
 
