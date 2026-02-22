@@ -129,6 +129,7 @@ Driven cybersecurity professional aiming to contribute to **Blue Team operations
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-Cloud%20SIEM-0078D4?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
